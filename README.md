@@ -35,6 +35,10 @@ Files
 **chatgpt_discord.py**
 
 >Discord bot for interacting with gpt-3.5-turbo
+>
+>**Using requires**
+>
+>discord: ```pip install discord```
 
 ---
 
