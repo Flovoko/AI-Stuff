@@ -4,9 +4,11 @@ Stuff i created using the OpenAI api.
 
 **Using requires >**
 
-Python: https://www.python.org/
+[Pyhon] https://www.python.org/
 
-Python-OpenAI: ```pip install openai```
+OpenAI-Api: ```pip install openai```
+
+OpenAI-Api-Key: https://platform.openai.com/
 
 ---
 
