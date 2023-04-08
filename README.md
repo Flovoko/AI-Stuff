@@ -4,7 +4,7 @@ Stuff i created using the OpenAI api.
 
 **ai.py >**
 
-´´´Terminal app for interacting with text-davinci-003´´´
+```Terminal app for interacting with text-davinci-003```
 
 **ai_gui.py > Visual app using tkinter for interaction with text-davinci-003**
 
