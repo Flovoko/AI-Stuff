@@ -2,6 +2,11 @@
 ---
 Stuff i created using the OpenAI api.
 
+**Using requires >**
+
+[Python][https://www.python.org/]
+[Python-OpenAI][]
+
 ---
 
 **ai.py >**
