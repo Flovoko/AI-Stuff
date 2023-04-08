@@ -16,7 +16,7 @@ Files
 
 **ai.py**
 
-```Terminal app for interacting with text-davinci-003```
+> Terminal app for interacting with text-davinci-003
 
 ---
 
