@@ -44,7 +44,8 @@ Files
 
 **Using requires**
 
-flask: ```pip install flask```
-markupsafe: ```pip install markupsafe```
+**flask:** ```pip install flask```
+
+**markupsafe:** ```pip install markupsafe```
 
 ---
