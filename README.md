@@ -4,8 +4,9 @@ Stuff i created using the OpenAI api.
 
 **Using requires >**
 
-[Python][https://www.python.org/]
-[Python-OpenAI][]
+Python: https://www.python.org/
+
+Python-OpenAI: ```pip install openai```
 
 ---
 
